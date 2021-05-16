@@ -1,7 +1,7 @@
 package one.digitalinnovation.interfaces;
 
-public class Gol implements Carro{
-    public String marca(){
+public class Gol implements Carro {
+    public String marca() {
         return "Volkswagen";
     }
 }

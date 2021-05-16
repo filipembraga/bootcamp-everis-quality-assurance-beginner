@@ -9,7 +9,7 @@ public class Programa {
 
         System.out.println(quadrado);
 
-        System.out.println(quadrado.desenha(12,34));
+        System.out.println(quadrado.desenha(12, 34));
         System.out.println(quadrado.nome());
         System.out.println(quadrado.area());
     }

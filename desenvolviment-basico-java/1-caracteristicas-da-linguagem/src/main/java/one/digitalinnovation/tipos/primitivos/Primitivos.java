@@ -5,7 +5,7 @@ public class Primitivos {
 
     //byte nullByte = null; Type can't be null
 
-    byte b=1;             //8 bits
+    byte b = 1;             //8 bits
     byte b1 = 127; //upper limit
     byte b2 = -128; //lower limit
     //byte b3 = 129;    //to large

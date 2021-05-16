@@ -1,6 +1,6 @@
 package one.digitalinnovation.interfaces;
 
-public class Fiesta implements Carro, Veiculo{ //Implements two Interfaces
+public class Fiesta implements Carro, Veiculo { //Implements two Interfaces
 
     @Override
     public String marca() {

@@ -1,6 +1,6 @@
 package one.digitalinnovation.abstracts;
 
-public class Quadrado extends FormaGeometrica{
+public class Quadrado extends FormaGeometrica {
     private String nome;
     private Double area;
 
@@ -8,14 +8,17 @@ public class Quadrado extends FormaGeometrica{
         this.nome = nome;
         this.area = area;
     }
+
     @Override
     public String nome() {
         return nome;
     }
+
     @Override
     public Double area() {
         return area;
     }
+
     @Override
     public String toString() {
         final StringBuilder builder = new StringBuilder()//
