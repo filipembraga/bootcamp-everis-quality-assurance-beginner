@@ -1,2 +1,4 @@
 rootProject.name = '1-paradigma-funcional-java'
+include 'projetoModular'
+include '2-projeto-modular'
 

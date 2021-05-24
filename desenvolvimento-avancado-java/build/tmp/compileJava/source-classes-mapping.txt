@@ -1,46 +1,61 @@
-br/com/digital/innovation/one/paradigmaFuncional/FuncaoComClasseAnonima.java
- br.com.digital.innovation.one.paradigmaFuncional.FuncaoComClasseAnonima
- br.com.digital.innovation.one.paradigmaFuncional.FuncaoComClasseAnonima$1
-br/com/digital/innovation/one/paradigmaFuncional/ComposicaoDeFuncoes.java
- br.com.digital.innovation.one.paradigmaFuncional.ComposicaoDeFuncoes
-br/com/digital/innovation/one/paradigmaFuncional/Imutabilidade.java
- br.com.digital.innovation.one.paradigmaFuncional.Imutabilidade
-br/com/digital/innovation/one/paradigmaFuncional/recursividade/FatorialTailCall.java
- br.com.digital.innovation.one.paradigmaFuncional.recursividade.FatorialTailCall
-br/com/digital/innovation/one/paradigmaFuncional/FuncaoPura.java
- br.com.digital.innovation.one.paradigmaFuncional.FuncaoPura
-br/com/digital/innovation/one/paradigmaFuncional/Funcao.java
- br.com.digital.innovation.one.paradigmaFuncional.Funcao
-br/com/digital/innovation/one/paradigmaFuncional/FuncaoComLambda.java
- br.com.digital.innovation.one.paradigmaFuncional.FuncaoComLambda
-br/com/digital/innovation/one/paradigmaFuncional/recursividade/FatorialRecursivo.java
- br.com.digital.innovation.one.paradigmaFuncional.recursividade.FatorialRecursivo
-br/com/digital/innovation/one/paradigmaFuncional/recursividade/FatorialMemoization.java
- br.com.digital.innovation.one.paradigmaFuncional.recursividade.FatorialMemoization
 br/com/digital/innovation/one/interfacesFuncionais/FuncaoAltaOrdem.java
  br.com.digital.innovation.one.interfacesFuncionais.Calculo
  br.com.digital.innovation.one.interfacesFuncionais.FuncaoAltaOrdem
-br/com/digital/innovation/one/interfacesFuncionais/FuncoesAltaOrdem.java
- br.com.digital.innovation.one.interfacesFuncionais.CalculoB
- br.com.digital.innovation.one.interfacesFuncionais.FuncoesAltaOrdem
+br/com/digital/innovation/one/paradigmaFuncional/recursividade/FatorialTailCall.java
+ br.com.digital.innovation.one.paradigmaFuncional.recursividade.FatorialTailCall
 br/com/digital/innovation/one/interfacesFuncionais/Consumers.java
  br.com.digital.innovation.one.interfacesFuncionais.Consumers
-br/com/digital/innovation/one/interfacesFuncionais/Predicates.java
- br.com.digital.innovation.one.interfacesFuncionais.Predicates
-br/com/digital/innovation/one/interfacesFuncionais/Suppliers.java
- br.com.digital.innovation.one.interfacesFuncionais.Pessoa
- br.com.digital.innovation.one.interfacesFuncionais.Suppliers
-br/com/digital/innovation/one/interfacesFuncionais/Iterators.java
- br.com.digital.innovation.one.interfacesFuncionais.Iterators
-br/com/digital/innovation/one/processamentoSyncAssync/ParallelStreamExemplo.java
- br.com.digital.innovation.one.processamentoSyncAssync.ParallelStreamExemplo
-br/com/digital/innovation/one/processamentoSyncAssync/ThreadExemplo.java
- br.com.digital.innovation.one.processamentoSyncAssync.BarraDeCarregamento
- br.com.digital.innovation.one.processamentoSyncAssync.GeradorPDF
- br.com.digital.innovation.one.processamentoSyncAssync.ThreadExemplo
 br/com/digital/innovation/one/processamentoSyncAssync/FutureExemplo.java
  br.com.digital.innovation.one.processamentoSyncAssync.Atividade
  br.com.digital.innovation.one.processamentoSyncAssync.Casa
  br.com.digital.innovation.one.processamentoSyncAssync.Comodo
  br.com.digital.innovation.one.processamentoSyncAssync.FutureExemplo
  br.com.digital.innovation.one.processamentoSyncAssync.Quarto
+br/com/digital/innovation/one/paradigmaFuncional/recursividade/FatorialRecursivo.java
+ br.com.digital.innovation.one.paradigmaFuncional.recursividade.FatorialRecursivo
+br/com/digital/innovation/one/releaseJdk11/StringRepeat.java
+ br.com.digital.innovation.one.releaseJdk11.StringRepeat
+br/com/digital/innovation/one/interfacesFuncionais/Predicates.java
+ br.com.digital.innovation.one.interfacesFuncionais.Predicates
+br/com/digital/innovation/one/paradigmaFuncional/recursividade/FatorialMemoization.java
+ br.com.digital.innovation.one.paradigmaFuncional.recursividade.FatorialMemoization
+br/com/digital/innovation/one/processamentoSyncAssync/ThreadExemplo.java
+ br.com.digital.innovation.one.processamentoSyncAssync.BarraDeCarregamento
+ br.com.digital.innovation.one.processamentoSyncAssync.GeradorPDF
+ br.com.digital.innovation.one.processamentoSyncAssync.ThreadExemplo
+br/com/digital/innovation/one/releaseJdk11/CollectionExemplo.java
+ br.com.digital.innovation.one.releaseJdk11.CollectionExemplo
+br/com/digital/innovation/one/releaseJdk11/StringIsBlankExemplo.java
+ br.com.digital.innovation.one.releaseJdk11.StringIsBlankExemplo
+br/com/digital/innovation/one/paradigmaFuncional/Imutabilidade.java
+ br.com.digital.innovation.one.paradigmaFuncional.Imutabilidade
+br/com/digital/innovation/one/paradigmaFuncional/FuncaoPura.java
+ br.com.digital.innovation.one.paradigmaFuncional.FuncaoPura
+br/com/digital/innovation/one/releaseJdk10/InferenciaExemplo.java
+ br.com.digital.innovation.one.releaseJdk10.InferenciaExemplo
+br/com/digital/innovation/one/releaseJdk11/InferenciaLambda.java
+ br.com.digital.innovation.one.releaseJdk11.InferenciaLambda
+br/com/digital/innovation/one/interfacesFuncionais/FuncoesAltaOrdem.java
+ br.com.digital.innovation.one.interfacesFuncionais.CalculoB
+ br.com.digital.innovation.one.interfacesFuncionais.FuncoesAltaOrdem
+br/com/digital/innovation/one/releaseJdk11/StringLinesExemplo.java
+ br.com.digital.innovation.one.releaseJdk11.StringLinesExemplo
+br/com/digital/innovation/one/paradigmaFuncional/FuncaoComClasseAnonima.java
+ br.com.digital.innovation.one.paradigmaFuncional.FuncaoComClasseAnonima
+ br.com.digital.innovation.one.paradigmaFuncional.FuncaoComClasseAnonima$1
+br/com/digital/innovation/one/paradigmaFuncional/ComposicaoDeFuncoes.java
+ br.com.digital.innovation.one.paradigmaFuncional.ComposicaoDeFuncoes
+br/com/digital/innovation/one/processamentoSyncAssync/ParallelStreamExemplo.java
+ br.com.digital.innovation.one.processamentoSyncAssync.ParallelStreamExemplo
+br/com/digital/innovation/one/releaseJdk11/ClientHttpExemplo.java
+ br.com.digital.innovation.one.releaseJdk11.ClientHttpExemplo
+ br.com.digital.innovation.one.releaseJdk11.ClientHttpExemplo$1
+br/com/digital/innovation/one/interfacesFuncionais/Iterators.java
+ br.com.digital.innovation.one.interfacesFuncionais.Iterators
+br/com/digital/innovation/one/paradigmaFuncional/FuncaoComLambda.java
+ br.com.digital.innovation.one.paradigmaFuncional.FuncaoComLambda
+br/com/digital/innovation/one/paradigmaFuncional/Funcao.java
+ br.com.digital.innovation.one.paradigmaFuncional.Funcao
+br/com/digital/innovation/one/interfacesFuncionais/Suppliers.java
+ br.com.digital.innovation.one.interfacesFuncionais.Pessoa
+ br.com.digital.innovation.one.interfacesFuncionais.Suppliers
